@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "description": "מערכת ניהול קריאות ביטחון וסיורים",
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
